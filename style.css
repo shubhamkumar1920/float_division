@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.blue{
+    background: teal;
+    float: left;
+    width: 100%;
+    height: 50px;
+}
+.green{
+    background: yellowgreen;
+    float: left;
+    width: 80%;
+    height: 85vh;
+}
+.violet{
+    background: violet;
+    float: left;
+    width: 50%;
+    height: 26vh;
+}
+.pink{
+    background: pink;
+    float: left;
+    width: 50%;
+    height: 26vh;
+}
+.light{
+    background: lightblue;
+    float: right;
+    width: 50%;
+    height: 26vh;
+}
+.lightg{
+    background: lightgreen;
+    float: right;
+    width: 50%;
+    height: 26vh;
+}
+.full{
+    background: white;
+    float: left;
+    width: 100%;
+    height: 34vh;
+}
+.yellow{
+    background: olive;
+    float: right;
+    width: 20%;
+    height: 85vh;
+}
+.red{
+    background: rgb(158, 70, 70);
+    float: left;
+    width: 100%;
+    height: 50px;
+}
+.top{
+        background: rgb(218, 238, 144);
+        float: left;
+        width: 100%;
+        height: 43vh;
+}
+.bottom{
+    background: skyblue;
+    float: left;
+    width: 100%;
+    height: 43vh;
+}
